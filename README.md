@@ -1,1 +1,1 @@
-# econ_h195b
+This is the repository for my Economics Honors Thesis. The project is still ongoing.
