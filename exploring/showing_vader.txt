@@ -1,0 +1,17 @@
+I used to love Kiko man 
+
+Clearly he holds a lot of resentment against our organization for trading him because he always acts like a punk when he plays us
+
+Sucks when theres bad blood with a player you used to admire
+________________________
+Positive Words: ['love', 'Clearly', 'like', 'plays', 'admire']
+Neutral Words: ['I', 'used', 'to', 'Kiko', 'man', 'he', 'holds', 'a', 'lot', 'of', 'against', 'our', 'organization', 'for', 'trading', 'him', 'because', 'he', 'always', 'acts', 'a', 'punk', 'when', 'he', 'us', 'when', 'theres', 'blood', 'with', 'a', 'player', 'you', 'used', 'to']
+Negative Words: ['resentment', 'Sucks', 'bad']
+________________________
+Overall sentiment dictionary is :  {'neg': 0.167, 'neu': 0.562, 'pos': 0.272, 'compound': 0.6808}
+sentence was rated as  16.7 % Negative
+sentence was rated as  56.2 % Neutral
+sentence was rated as  27.200000000000003 % Positive
+Sentence Overall Rated As Positive
+
+
