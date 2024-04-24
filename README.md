@@ -1,1 +1,1 @@
-This is the repository for my Economics Honors Thesis. The project is still ongoing.
+This is the repository for my [Economics Honors Thesis](https://drive.google.com/file/d/1zlVJGOZKFvm1WLRF8s1wfctJTJ0iR-MS/view?usp=sharing). Some of the Reddit data files used in my honors thesis are unfortunately too large to be uploaded onto GitHub and have been stored in dropbox for now. Please email me at rohan.jha@berkeley.edu if you would like access to these files. Once you have these files, you can reproduce all the results of my honors thesis by running `results.ipynb`.
